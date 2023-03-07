@@ -1,4 +1,10 @@
 /* styles */
 .line {
   background-color: hsl(360, 60%, 75%);
+  font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#second {
+    color: hsl(240, 100%, 50%);
+    font-size: 36px;
 }
