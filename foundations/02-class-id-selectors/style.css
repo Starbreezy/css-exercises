@@ -1,4 +1,5 @@
 /* styles */
+
 .line {
   background-color: hsl(360, 60%, 75%);
   font-family: Verdana, DejaVu Sans, sans-serif;
@@ -7,4 +8,14 @@
 #second {
     color: hsl(240, 100%, 50%);
     font-size: 36px;
+}
+
+.line.three {
+    font-size: 24px;
+}
+
+#fourth {
+    background-color: hsl(120, 100%, 75%);
+    font-size: 24px;
+    font-weight: bold;
 }
